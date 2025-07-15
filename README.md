@@ -45,19 +45,27 @@ Product Performance:
 •	Sales trends across continents (America, Europe, Asia).
 
 
-Key Findings & Insights Dairy Dominance: Dairy products (especially Camembert Pierrot and Raclette Courdavault) were top revenue drivers.
+4. Key Findings & Insights Dairy Dominance: Dairy products (especially Camembert Pierrot and Raclette Courdavault) were top revenue drivers.
 Regional Strengths:
+
 •	Europe (France, Germany) had the highest sales density.
+
 •	Emerging markets in South America (Brazil) showed growth potential.
+
 •	Underperforming Categories: "Grains/Cereal" and "Seafood" had lower sales, suggesting a need for promotion or discontinuation.
+
+
 
 Recommendations Inventory Optimization:
 •	Increase stock for high-revenue dairy products.
+
 •	Phase out underperforming categories or run targeted promotions.
 
 Regional Strategy:
 •	Expand marketing efforts in high-growth regions (e.g., Brazil).
+
 •	Investigate low sales in certain areas (e.g., Australia).
+
 This project transformed raw sales data into actionable insights, helping Supermarket Together make data-driven decisions. The dashboard provided visibility into sales performance, enabling better inventory management and strategic planning.
 
 Next Steps:
