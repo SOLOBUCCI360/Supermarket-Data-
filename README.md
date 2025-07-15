@@ -3,7 +3,9 @@ Problem Statement Supermarket Together, a growing retail chain with 21 branches,
 The Analysis Process
 
 
-1.	Data Collection & Cleaning Source: Historical sales data was extracted from an SQL database and compiled into an Excel file (Sales.xlsx).
+1.	Data Collection & Cleaning
+
+Source: Historical sales data was extracted from an SQL database and compiled into an Excel file (Sales.xlsx).
 Cleaning Steps:
 Checked for missing values in key columns (Product, Category, Revenue).
 Standardized category names (e.g., "Meat/Routing" → "Meat/Poultry").
@@ -11,10 +13,15 @@ Ensured correct formatting for dates and currency.
 
 
 2.	Exploratory Data Analysis (EDA) Key Metrics Calculated:
+
 Total Revenue: $1.35M
+
 Products Sold: 77
+
 Top Categories: Dairy Products, Beverages, Condiments
+
 Top Products by Revenue:
+
 •	Côte de Blaye
 
 •	Thüringer Rostbratwurst
@@ -59,6 +66,7 @@ Regional Strengths:
 
 
 Recommendations Inventory Optimization:
+
 •	Increase stock for high-revenue dairy products.
 
 •	Phase out underperforming categories or run targeted promotions.
