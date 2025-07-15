@@ -45,7 +45,9 @@ Product Performance:
 •	Sales trends across continents (America, Europe, Asia).
 
 
-4. Key Findings & Insights Dairy Dominance: Dairy products (especially Camembert Pierrot and Raclette Courdavault) were top revenue drivers.
+4. Key Findings & Insights
+
+Dairy Dominance: Dairy products (especially Camembert Pierrot and Raclette Courdavault) were top revenue drivers.
 Regional Strengths:
 
 •	Europe (France, Germany) had the highest sales density.
